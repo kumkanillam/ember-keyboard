@@ -1,7 +1,7 @@
 # Changelog
 
 
-
+## Modified resolutions and published dist
 
 ## v8.2.0 (2022-07-12)
 
